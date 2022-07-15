@@ -1,6 +1,6 @@
 function CardRelation() {
   return (
-    <div>CardRelation</div>
+    <div className="box col-start-3 col-end-5">Card Relation</div>
   )
 }
 

@@ -1,6 +1,6 @@
 function CardBank() {
   return (
-    <div>CardBank</div>
+    <div className="box col-start-3 col-end-5">Card Bank</div>
   )
 }
 
