@@ -13,7 +13,7 @@ function App() {
       <Sidebar />
       <div className="bg-green-100 py-4 px-6 relative ml-16 min-h-screen">
         <Navbar />
-        <div className="grid overflow-hidden sm auto-cols-auto grid-rows-2 gap-6 grid-flow-row">
+        <div className="grid overflow-hidden sm auto-cols-auto grid-rows gap-6 grid-flow-row">
           <CardProfile/>
           <CardLocation/>
           <CardBank/>
