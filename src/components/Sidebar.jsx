@@ -8,24 +8,27 @@ function Sidebar() {
 
             <br /><br />
 
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
+            <SidebarItem icon="./icon/home.svg" />
+            <SidebarItem icon="./icon/ticket.svg" />
+            <SidebarItem icon="./icon/clipcheck.svg" />
+            <SidebarItem icon="./icon/archive.svg"  />
+            <div className="">
+                <SidebarItem icon="./icon/office.svg" />
+            </div>
+            
 
             <br /><br />
 
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
-            <SidebarItem icon="./icon/mail.svg" />
+            <SidebarItem icon="./icon/users.svg" />
+            <SidebarItem icon="./icon/stack.svg" />
+            <SidebarItem icon="./icon/cube.svg" />
+            <SidebarItem icon="./icon/cmd.svg" />
+            <SidebarItem icon="./icon/search.svg" />
 
             <br /><br />
 
 
-            <SidebarItem icon="./icon/mail.svg" />
+            <SidebarItem icon="./icon/calcu.svg" />
             
         </aside>
     );
